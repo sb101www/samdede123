@@ -1,2 +1,0 @@
-# samdede123
-emailserver
